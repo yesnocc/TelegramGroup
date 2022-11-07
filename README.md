@@ -1,13 +1,13 @@
 <!--
  * @Description:
- * @Author: itgoyo
- * @E-mail: itgoyo@gmail.com
- * @Github: itgoyo
+ * @Author: bingosing
+ * @E-mail: bingosing@gmail.com
+ * @Github: bingosing
 -->
 ##### 推广
 
-*   广告位招商，有意@ itgoyo@gmail.com   【中国人不骗中国人，不接黄赌毒、政治、敏感、等不良广告】
-
+*   广告位招商，有意@ bingosing@gmail.com   【中国人不骗中国人，不接黄赌毒、政治、敏感、等不良广告】
+<!--
 <table>
   <tr>
     <td align="center">
@@ -57,7 +57,7 @@
     
      
 </table>
-
+-->
 ##### 推荐[](https://congcong0806.github.io/2018/04/24/Telegram/#%E6%8E%A8%E8%8D%90)
 
 *   Telegram 客户端界面中文汉化:[https://t.me/yxbjx/2255803](https://t.me/yxbjx/2255803)
